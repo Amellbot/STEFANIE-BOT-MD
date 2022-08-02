@@ -1,32 +1,32 @@
 //=============『 Utama 』================== //
-global.owner = ['6287898307350'] 
-global.mods = [] 
+global.owner = ['15064043432'] 
+global.mods = [http://wa.me/+1(506)4043432] 
 global.prems = [] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'Gempy⛧⁩⁩'
-global.numberowner = '6287898307350'
-global.instagram = 'https://www.instagram.com/gmpyyy'
-global.github = 'https://github.com/gmpyyy'
-global.dana = '087898307350'
-global.pulsa = '087898307350'
+global.nameowner = 'Amelia⛧⁩⁩'
+global.numberowner = '15064043432'
+global.instagram = 'https://www.instagram.com/amellv12'
+global.github = 'https://github.com/amell'
+global.dana = '15064043432'
+global.pulsa = '15064043432'
 global.gopay = '-'
 
 //=============『 Info Bot 』=================//
-global.namebot = 'PENTABOT'
-global.gc = 'https://chat.whatsapp.com/ElBB5NrJS637TYqjJLHuk2'
-global.web = 'https://www.youtube.com/channel/UCZoVmApPxtLYgUWwBD4nbCw' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.namebot = 'AMELIA PUTRI'
+global.gc = 'https://www.instagram.com/invites/contact/?i=118hhabjxq9nr&utm_content=m4pm9Azu'
+global.web = 'https://youtube.com/channel/UC_KcMlX5LI9EZIVOgLOx9TQ' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
 
 //=======『 Tampilan Dan Lainnya 』============//
 global.fotonya1 = 'https://i.postimg.cc/MZjW7hb6/20220707-200605.jpg' //ganti jadi foto bot mu
 global.fotonya2 = 'https://i.postimg.cc/MZjW7hb6/20220707-200605.jpg' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
-global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = 'PENTABOT'
+global.zenzkey = 'Amell' //ganti jadi apikey lu kalau expired
+global.wm = 'Amell Botz 2022'
 global.watermark = wm
-global.wm2 = '                     「PENTABOT⁩ 」'
-global.wm3 = 'Gempy⛧'
+global.wm2 = 'Jangan Spam Bot Amell Email amelcns8@gmail.com'
+global.wm3 = 'Email Amel⛧'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://i.postimg.cc/MZjW7hb6/20220707-200605.jpg'
@@ -36,8 +36,8 @@ global.eror = 'ERROR'
 global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = 'Stiker sedang dibuat'
-global.packname = 'Created by'
-global.author = 'Gempy⛧⁩⁩'
+global.packname = 'Created by Amelio'
+global.author = 'Amell⛧⁩⁩'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
